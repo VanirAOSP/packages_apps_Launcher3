@@ -23,21 +23,6 @@
     <string name="home" msgid="7658288663002113681">"الرئيسية"</string>
     <string name="uid_name" msgid="7820867637514617527">"‏تطبيقات Android الأساسية"</string>
     <string name="folder_name" msgid="7371454440695724752"></string>
-<<<<<<< HEAD
-    <string name="wallpaper_instructions" msgid="563973358787555519">"تعيين خلفية"</string>
-  <plurals name="number_of_items_selected">
-    <item quantity="zero" msgid="7464587177007785408">"‏تم تحديد %1$d"</item>
-    <item quantity="one" msgid="142482526010824029">"‏تم تحديد %1$d"</item>
-    <item quantity="other" msgid="1418352074806573570">"‏تم تحديد %1$d"</item>
-  </plurals>
-    <string name="wallpaper_accessibility_name" msgid="1655953108132967972">"‏الخلفية %1$d من %2$d"</string>
-    <string name="announce_selection" msgid="8338254712932127413">"تم تحديد <xliff:g id="LABEL">%1$s</xliff:g>"</string>
-    <string name="wallpaper_delete" msgid="8095005658756613921">"حذف"</string>
-    <string name="pick_image" msgid="1272073934062909527">"اختيار صورة"</string>
-    <string name="pick_wallpaper" msgid="8179698221502010609">"الخلفيات"</string>
-    <string name="crop_wallpaper" msgid="8334345984491368009">"اقتصاص الخلفية"</string>
-=======
->>>>>>> L5-aosp
     <string name="activity_not_found" msgid="8071924732094499514">"لم يتم تثبيت التطبيق."</string>
     <string name="safemode_shortcut_error" msgid="9160126848219158407">"تم تعطيل التطبيق الذي تم تنزيله في الوضع الآمن"</string>
     <string name="widgets_tab_label" msgid="2921133187116603919">"الأدوات"</string>
@@ -101,11 +86,7 @@
     <string name="workspace_scroll_format" msgid="8458889198184077399">"‏الشاشة الرئيسية %1$d من %2$d"</string>
     <string name="apps_customize_apps_scroll_format" msgid="370005296147130238">"‏صفحة التطبيقات %1$d من %2$d"</string>
     <string name="apps_customize_widgets_scroll_format" msgid="3106209519974971521">"‏صفحة الأدوات %1$d من %2$d"</string>
-<<<<<<< HEAD
-    <string name="first_run_cling_title" msgid="7257389003637362144">"مرحبًا!"</string>
-=======
     <string name="first_run_cling_title" msgid="2459738000155917941">"مرحبًا"</string>
->>>>>>> L5-aosp
     <string name="first_run_cling_description" msgid="6447072552696253358">"تصرف على راحتك."</string>
     <string name="first_run_cling_custom_content_hint" msgid="6090628589029352439"></string>
     <string name="first_run_cling_search_bar_hint" msgid="5909062802402452582"></string>

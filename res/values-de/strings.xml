@@ -91,13 +91,6 @@
     <string name="first_run_cling_custom_content_hint" msgid="6090628589029352439"></string>
     <string name="first_run_cling_search_bar_hint" msgid="5909062802402452582"></string>
     <string name="first_run_cling_create_screens_hint" msgid="6950729526680114157">"Mehr Bildschirme für Apps und Ordner erstellen"</string>
-<<<<<<< HEAD
-=======
-    <string name="migration_cling_title" msgid="9181776667882933767">"App-Symbole kopieren"</string>
-    <string name="migration_cling_description" msgid="2752413805582227644">"Symbole und Ordner alter Startbildschirme importieren?"</string>
-    <string name="migration_cling_copy_apps" msgid="946331230090919440">"Symbole kopieren"</string>
-    <string name="migration_cling_use_default" msgid="2626475813981258626">"Standardübersicht verwenden"</string>
->>>>>>> L5-aosp
     <string name="workspace_cling_title" msgid="5626202359865825661">"Arbeitsbereich organisieren"</string>
     <string name="workspace_cling_move_item" msgid="528201129978005352">"Hintergrund berühren und halten, um Hintergrund, Widgets und Einstellungen zu verwalten"</string>
     <string name="workspace_cling_longpress_title" msgid="9173998993909018310">"Hintergründe, Widgets &amp; Einstellungen"</string>
